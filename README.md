@@ -1,28 +1,22 @@
-## Hi there 👋
 
-<!--
-**LP-world2002/LP-world2002** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Hey 👋, I'm Li Peng
 
-Here are some ideas to get you started:
+- `CSDN` :  https://blog.csdn.net/honmy18
+- `Gitee`:  https://gitee.com/honmy2002
+---
+- 💼 Currently, I am engaged in embedded development work in Shenzhen.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 💬 If you have any questions regarding LCKFB, please feel free to email me.
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LP-world2002)
+- 📫 lipeng.git@qq.com
 
+### My GitHub Contributions
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LP-world2002)
+![](https://raw.githubusercontent.com/LP-world2002/LP-world2002/main/assets/github-contribution-grid-snake.svg)
 
+### My GitHub Stats
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/LP-world2002/LP-world2002/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/LP-world2002/LP-world2002/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/LP-world2002/LP-world2002/output/github-contribution-grid-snake.svg">
-</picture>
+![Licardo's GitHub stats](https://github-readme-stats.vercel.app/api?username=LP-world2002&show_icons=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LP-world2002&layout=compact)
+
+⭐️ From [LP-world2002](https://github.com/LP-world2002)
