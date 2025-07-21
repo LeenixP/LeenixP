@@ -17,10 +17,11 @@
 
 ### My GitHub Contributions
 
-<!-- 贪吃蛇 -->
-<div align="center">
-    <img src="https://raw.githubusercontent.com/LP-world2002/LP-world2002/output/github-contribution-grid-snake.svg" />
-</div>
+<center>
+
+![Contribution Snake](https://raw.githubusercontent.com/LP-world2002/LP-world2002/main/assets/github-contribution-snake.svg)
+
+</center>
 
 ### My GitHub Stats
 
