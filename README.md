@@ -1,9 +1,18 @@
 
 ## Hey 👋, I'm Li Peng
 
+
+<div>&nbsp;</div>
+
 - `CSDN` :  https://blog.csdn.net/honmy18
 - `Gitee`:  https://gitee.com/honmy2002
+
+<div>&nbsp;</div>
+
 ---
+
+<div>&nbsp;</div>
+
 - 💼 Currently, I am engaged in embedded development work in Shenzhen.
 
 - 💬 If you have any questions regarding LCKFB, please feel free to email me.
@@ -12,7 +21,10 @@
 
 ### My GitHub Contributions
 
-![](https://raw.githubusercontent.com/LP-world2002/LP-world2002/main/assets/github-contribution-grid-snake.svg)
+<!-- 贪吃蛇 -->
+<div align="center">
+    <img src="https://raw.githubusercontent.com/LP-world2002/LP-world2002/output/github-contribution-grid-snake.svg" />
+</div>
 
 ### My GitHub Stats
 
