@@ -11,8 +11,6 @@
 
 - 💼 Currently, I am engaged in embedded development work in Shenzhen.
 
-- 💬 If you have any questions regarding LCKFB, please feel free to email me.
-
 - 📫 lipeng.git@qq.com
 
 ### My GitHub Contributions
