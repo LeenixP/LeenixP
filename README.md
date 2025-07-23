@@ -47,8 +47,7 @@
 ### My GitHub Stats
 
 <p align="center">
-  <!-- https://streak-stats.demolab.com/ -->
-  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=LipengEE&hide_border=true&date_format=%5BY.%5Dn.j&mode=weekly" alt="GitHub Streak" /></a>
+  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=LipengEE&hide_border=true&border_radius=5&date_format=%5BY.%5Dn.j&mode=weekly" alt="GitHub Streak" /></a>
 </p>
 
 <p align="center">
@@ -60,7 +59,7 @@
 </p>
 
 <p align="center">
-<img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=LipengEE" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=LipengEE" />
 </p>
 
 
