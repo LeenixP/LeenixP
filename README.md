@@ -15,11 +15,11 @@
 
 ### My GitHub Contributions
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/LP-world2002/LP-world2002/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/LP-world2002/LP-world2002/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/LP-world2002/LP-world2002/output/github-contribution-grid-snake.svg">
-</picture>
+<p align="center">
+    <!-- https://github.com/ryo-ma/github-profile-trophy -->
+    <!-- rules: https://github.com/ryo-ma/github-profile-trophy/blob/master/src/trophy.ts -->
+    <img src="https://github-profile-trophy.vercel.app/?username=LP-world2002&no-bg=true&no-frame=true&theme=algolia&title=-MultiLanguage&column=9" alt="Profile Trophy" title="Profile Trophy" />
+</p>
 
 <p align="center">
     <!-- https://github.com/LelouchFR/skill-icons -->
@@ -33,11 +33,15 @@
     </a>
 </p>
 
-<p align="center">
-    <!-- https://github.com/ryo-ma/github-profile-trophy -->
-    <!-- rules: https://github.com/ryo-ma/github-profile-trophy/blob/master/src/trophy.ts -->
-    <img width="800" src="https://github-profile-trophy.vercel.app/?username=LP-world2002&no-bg=true&no-frame=true&theme=algolia&title=-MultiLanguage" alt="Profile Trophy" title="Profile Trophy" />
-</p>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/LP-world2002/LP-world2002/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/LP-world2002/LP-world2002/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/LP-world2002/LP-world2002/output/github-contribution-grid-snake.svg">
+</picture>
+
+
+
+
 
 ### My GitHub Stats
 
@@ -48,7 +52,10 @@
 
 <p align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=LP-world2002&show_icons=true" />
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LP-world2002&theme=transparent&hide_border=true&layout=donut-vertical&langs_count=6" />
+</p>
+
+<p align="center">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LP-world2002&theme=transparent&hide_border=true&layout=donut-vertical&langs_count=10" />
 </p>
 
 
