@@ -22,12 +22,6 @@
 </picture>
 
 <p align="center">
-    <!-- https://github.com/ryo-ma/github-profile-trophy -->
-    <!-- rules: https://github.com/ryo-ma/github-profile-trophy/blob/master/src/trophy.ts -->
-    <img width="800" src="https://github-profile-trophy.vercel.app/?username=LP-world2002&no-bg=true&no-frame=true&theme=algolia&title=-MultiLanguage" alt="Profile Trophy" title="Profile Trophy" />
-</p>
-
-<p align="center">
     <!-- https://github.com/LelouchFR/skill-icons -->
     <a href="https://go-skill-icons.vercel.app/">
       <img
@@ -37,6 +31,12 @@
         src="https://go-skill-icons.vercel.app/api/icons?i=py,c,cpp,docker,vim,md,bash,git,qt,sqlite,vscode,ollama,deepseek,chatgpt,raspberrypi"
       />
     </a>
+</p>
+
+<p align="center">
+    <!-- https://github.com/ryo-ma/github-profile-trophy -->
+    <!-- rules: https://github.com/ryo-ma/github-profile-trophy/blob/master/src/trophy.ts -->
+    <img width="800" src="https://github-profile-trophy.vercel.app/?username=LP-world2002&no-bg=true&no-frame=true&theme=algolia&title=-MultiLanguage" alt="Profile Trophy" title="Profile Trophy" />
 </p>
 
 ### My GitHub Stats
