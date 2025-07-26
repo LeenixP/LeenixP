@@ -1,5 +1,10 @@
 
 <p align="center">
+    <!-- https://github.com/kyechan99/capsule-render -->
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&&section=header&text=Hello&fontSize=90&fontAlign=50&fontAlignY=30&desc=I%20am%20LeenixP&descAlign=50&descSize=30&descAlignY=60&animation=twinkling" alt="Hi There" title="Hi There"/>
+</p>
+
+<p align="center">
     <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2500&pause=1000&center=true&vCenter=true&width=435&separator=%3C&lines=printk(KERN_INFO+%22Hello+World%5Cn%22);" alt="Typing SVG" /></a>
 </p>
 
@@ -23,10 +28,19 @@
 
 ---
 
-💼 Currently, I am engaged in embedded development work in Shenzhen.
+<!-- ### About Me 大标题 -->
 
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&duration=2500&pause=1000&color=051015&width=435&lines=About+Me" alt="Typing SVG" /></a>
 
-### My GitHub Contributions
+- I am passionate about computer science and electronic information technology, specializing in embedded systems and driver development, and I aspire to become an exceptional developer.
+- 我热爱计算机科学与电子信息技术，专注于嵌入式系统与驱动开发，立志成为一名卓越的开发者。
+
+---
+
+<!-- ### My GitHub Contributions 大标题 -->
+
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&duration=2500&pause=1000&color=051015&width=435&lines=My+GitHub+Contributions" alt="Typing SVG" /></a>
+
 
 <p align="center">
     <!-- https://github.com/ryo-ma/github-profile-trophy -->
@@ -47,7 +61,10 @@
     </picture>
 </p>
 
-### My Technical Stack (Excerpt)
+<!-- ### My Technical Stack (Excerpt) 大标题 -->
+
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&duration=2500&pause=1000&color=051015&width=435&lines=My+Technical+Stack+(Excerpt)" alt="Typing SVG" /></a>
+
 
 <p align="center">
     <!-- https://github.com/LelouchFR/skill-icons -->
@@ -62,7 +79,10 @@
 </p>
 
 
-### My Stats
+<!-- ### My Stats 大标题 -->
+
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&duration=2500&pause=1000&color=051015&width=435&lines=My+Stats" alt="Typing SVG" /></a>
+
 
 <p align="center">
   <img height="160"src="https://streak-stats.demolab.com?user=LeenixP&date_format=%5BY.%5Dn.j&mode=weekly" /> 
