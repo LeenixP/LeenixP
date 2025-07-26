@@ -65,9 +65,11 @@
 ### My Stats
 
 <p align="center">
-  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=LeenixP&date_format=%5BY.%5Dn.j&mode=weekly" alt="GitHub Streak" /></a>
-  <img src="https://github-readme-stats.vercel.app/api?username=LeenixP&show_icons=true" />
+  <img height="160"src="https://streak-stats.demolab.com?user=LeenixP&date_format=%5BY.%5Dn.j&mode=weekly" /> 
+  <img height="160"src="https://github-readme-stats.vercel.app/api?username=LeenixP&show_icons=true" />
 </p>
+
+
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/wakatime?username=LeenixP&theme=transparent&hide_border=true&layout=compact&langs_count=22" />
