@@ -4,11 +4,10 @@
 </p>
 
 <p align="center">
-<picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/coding.gif" />
-    <source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/developer.svg" height="225px" />
-    <img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/coding.gif" />
-</picture>
+    <picture>
+      <source media="(code-1)" srcset="https://raw.githubusercontent.com/LeenixP/LeenixP/output/code-1.svg">
+      <img height="200" alt="code" src="https://raw.githubusercontent.com/LeenixP/LeenixP/output/code-1.svg">
+    </picture>
 </p>
 
 <div>&nbsp;</div>
