@@ -94,4 +94,6 @@
   <img src="https://github-readme-stats.vercel.app/api/wakatime?username=LeenixP&theme=transparent&hide_border=true&layout=compact&langs_count=22" />
 </p>
 
+---
+
 ⭐️ From [LeenixP](https://github.com/LeenixP)
