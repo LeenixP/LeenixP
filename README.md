@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/LeenixP/LeenixP@main/assets/coding-dark.gif" alt="敲代码" />
+  <img height="200" src="https://cdn.jsdelivr.net/gh/LeenixP/LeenixP@main/assets/coding-dark.gif" alt="敲代码" />
 </p>
 
 <div>&nbsp;</div>
@@ -27,7 +27,7 @@
 
 <!-- ### About Me 大标题 -->
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&duration=2500&pause=1000&color=051015&width=435&lines=About+Me" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&duration=2500&pause=1000&color=BA55D3FF&width=435&lines=About+Me" alt="Typing SVG" /></a>
 
 - I am passionate about computer science and electronic information technology, specializing in embedded systems and driver development, and I aspire to become an exceptional developer.
 - 我热爱计算机科学与电子信息技术，专注于嵌入式系统与驱动开发，立志成为一名卓越的开发者。
@@ -36,7 +36,7 @@
 
 <!-- ### My GitHub Contributions 大标题 -->
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&duration=2500&pause=1000&color=051015&width=435&lines=My+GitHub+Contributions" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&duration=2500&pause=1000&color=BA55D3FF&width=435&lines=My+GitHub+Contributions" alt="Typing SVG" /></a>
 
 
 <p align="center">
@@ -60,7 +60,7 @@
 
 <!-- ### My Technical Stack (Excerpt) 大标题 -->
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&duration=2500&pause=1000&color=051015&width=435&lines=My+Technical+Stack+(Excerpt)" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&duration=2500&pause=1000&color=BA55D3FF&width=435&lines=My+Technical+Stack+(Excerpt)" alt="Typing SVG" /></a>
 
 
 <p align="center">
@@ -78,7 +78,7 @@
 
 <!-- ### My Stats 大标题 -->
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&duration=2500&pause=1000&color=051015&width=435&lines=My+Stats" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&duration=2500&pause=1000&color=BA55D3FF&width=435&lines=My+Stats" alt="Typing SVG" /></a>
 
 
 <p align="center">
@@ -86,7 +86,9 @@
   <img height="160"src="https://github-readme-stats.vercel.app/api?username=LeenixP&show_icons=true" />
 </p>
 
+<!-- ### My WakaTime 大标题 -->
 
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&duration=2500&pause=1000&color=BA55D3FF&width=435&lines=My+WakaTime" alt="Typing SVG" /></a>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/wakatime?username=LeenixP&theme=transparent&hide_border=true&layout=compact&langs_count=22" />
