@@ -9,10 +9,7 @@
 </p>
 
 <p align="center">
-    <picture>
-      <source media="(code-1)" srcset="https://raw.githubusercontent.com/LeenixP/LeenixP/output/code-1.svg">
-      <img height="200" alt="code" src="https://raw.githubusercontent.com/LeenixP/LeenixP/output/code-1.svg">
-    </picture>
+  <img src="https://cdn.jsdelivr.net/gh/LeenixP/LeenixP@main/assets/coding-dark.gif" alt="敲代码" />
 </p>
 
 <div>&nbsp;</div>
