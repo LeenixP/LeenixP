@@ -64,7 +64,8 @@
 
 
 <p align="center">
-  <a href="https://go-skill-icons.vercel.app/">
+  <!-- "https://go-skill-icons.vercel.app/" -->
+  <a>
     <img
       src="https://go-skill-icons.vercel.app/api/icons?i=c,cpp,py"
     />
@@ -73,7 +74,8 @@
 
 
 <p align="center">
-  <a href="https://go-skill-icons.vercel.app/">
+  <!-- "https://go-skill-icons.vercel.app/" -->
+  <a>
     <img
       src="https://go-skill-icons.vercel.app/api/icons?i=linux,ubuntu,debian,android,windows,arch"
     />
@@ -82,7 +84,8 @@
 
 
 <p align="center">
-  <a href="https://go-skill-icons.vercel.app/">
+  <!-- "https://go-skill-icons.vercel.app/" -->
+  <a>
     <img
       src="https://go-skill-icons.vercel.app/api/icons?i=docker,vim,md,bash,git,qt,sqlite,vscode,ollama,raspberrypi,cmake,clion,wsl"
     />
