@@ -64,18 +64,29 @@
 
 
 <p align="center">
-    <!-- https://github.com/LelouchFR/skill-icons -->
-    <a>
-      <img
-        src="https://go-skill-icons.vercel.app/api/icons?i=c,cpp,py"
-      />
-      <img
-        src="https://go-skill-icons.vercel.app/api/icons?i=linux,ubuntu,debian,android,windows,arch"
-      />
-      <img
-        src="https://go-skill-icons.vercel.app/api/icons?i=docker,vim,md,bash,git,qt,sqlite,vscode,ollama,raspberrypi,cmake,clion,wsl"
-      />
-    </a>
+  <a href="https://go-skill-icons.vercel.app/">
+    <img
+      src="https://go-skill-icons.vercel.app/api/icons?i=c,cpp,py"
+    />
+  </a>
+</p>
+
+
+<p align="center">
+  <a href="https://go-skill-icons.vercel.app/">
+    <img
+      src="https://go-skill-icons.vercel.app/api/icons?i=linux,ubuntu,debian,android,windows,arch"
+    />
+  </a>
+</p>
+
+
+<p align="center">
+  <a href="https://go-skill-icons.vercel.app/">
+    <img
+      src="https://go-skill-icons.vercel.app/api/icons?i=docker,vim,md,bash,git,qt,sqlite,vscode,ollama,raspberrypi,cmake,clion,wsl"
+    />
+  </a>
 </p>
 
 
