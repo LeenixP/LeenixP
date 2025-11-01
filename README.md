@@ -1,7 +1,7 @@
 
 <p align="center">
     <!-- https://github.com/kyechan99/capsule-render -->
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&&section=header&text=Hello&fontSize=90&fontAlign=50&fontAlignY=30&desc=I%20am%20LeenixP&descAlign=50&descSize=30&descAlignY=60&animation=twinkling" alt="Hi There" title="Hi There"/>
+    <!-- <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&&section=header&text=Hello&fontSize=90&fontAlign=50&fontAlignY=30&desc=I%20am%20LeenixP&descAlign=50&descSize=30&descAlignY=60&animation=twinkling" alt="Hi There" title="Hi There"/> -->
 </p>
 
 <p align="center">
@@ -27,22 +27,22 @@
 
 <!-- ### About Me 大标题 -->
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&duration=2500&pause=1000&color=BA55D3FF&width=435&lines=About+Me" alt="Typing SVG" /></a>
+<!-- <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&duration=2500&pause=1000&color=BA55D3FF&width=435&lines=About+Me" alt="Typing SVG" /></a>
 
 - I am passionate about computer science and electronic information technology, specializing in embedded systems and driver development, and I aspire to become an exceptional developer.
 - 我热爱计算机科学与电子信息技术，专注于嵌入式系统与驱动开发，立志成为一名卓越的开发者。
 
----
+--- -->
 
 <!-- ### My GitHub Contributions 大标题 -->
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&duration=2500&pause=1000&color=BA55D3FF&width=435&lines=My+GitHub+Contributions" alt="Typing SVG" /></a>
+<!-- <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&duration=2500&pause=1000&color=BA55D3FF&width=435&lines=My+GitHub+Contributions" alt="Typing SVG" /></a> -->
 
 
 <p align="center">
     <!-- https://github.com/ryo-ma/github-profile-trophy -->
     <!-- rules: https://github.com/ryo-ma/github-profile-trophy/blob/master/src/trophy.ts -->
-    <img src="https://github-profile-trophy.vercel.app/?username=LeenixP&no-bg=true&no-frame=true&theme=algolia&title=-MultiLanguage&column=9" alt="Profile Trophy" title="Profile Trophy" />
+    <!-- <img src="https://github-profile-trophy.vercel.app/?username=LeenixP&no-bg=true&no-frame=true&theme=algolia&title=-MultiLanguage&column=9" alt="Profile Trophy" title="Profile Trophy" /> -->
 </p>
 
 
@@ -60,15 +60,15 @@
 
 <!-- ### My Technical Stack (Excerpt) 大标题 -->
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&duration=2500&pause=1000&color=BA55D3FF&width=435&lines=My+Technical+Stack+(Excerpt)" alt="Typing SVG" /></a>
+<!-- <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&duration=2500&pause=1000&color=BA55D3FF&width=435&lines=My+Technical+Stack+(Excerpt)" alt="Typing SVG" /></a> -->
 
 
 <p align="center">
   <!-- "https://go-skill-icons.vercel.app/" -->
   <a>
-    <img
+    <!-- <img
       src="https://go-skill-icons.vercel.app/api/icons?i=c,cpp,py"
-    />
+    /> -->
   </a>
 </p>
 
@@ -76,9 +76,9 @@
 <p align="center">
   <!-- "https://go-skill-icons.vercel.app/" -->
   <a>
-    <img
+    <!-- <img
       src="https://go-skill-icons.vercel.app/api/icons?i=linux,ubuntu,debian,android,windows,arch"
-    />
+    /> -->
   </a>
 </p>
 
@@ -86,9 +86,9 @@
 <p align="center">
   <!-- "https://go-skill-icons.vercel.app/" -->
   <a>
-    <img
+    <!-- <img
       src="https://go-skill-icons.vercel.app/api/icons?i=docker,vim,md,bash,git,qt,sqlite,vscode,ollama,raspberrypi,cmake,clion,wsl"
-    />
+    /> -->
   </a>
 </p>
 
