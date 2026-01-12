@@ -100,7 +100,7 @@
 
 <p align="center">
   <img height="160"src="https://streak-stats.demolab.com?user=LeenixP&hide_border=&short_numbers=&date_format=%5BY.%5Dn.j&mode=weekly" /> 
-  <img height="160"src="https://github-readme-stats.vercel.app/api?username=LeenixP&show_icons=true&theme=radical" />
+  <!-- <img height="160"src="https://github-readme-stats.vercel.app/api?username=LeenixP&show_icons=true&theme=radical" /> -->
 </p>
 
 <!-- ### My WakaTime 大标题 -->
