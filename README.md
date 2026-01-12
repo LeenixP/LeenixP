@@ -105,7 +105,7 @@
 
 <!-- ### My WakaTime 大标题 -->
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&duration=2500&pause=1000&color=BA55D3FF&width=435&lines=My+WakaTime" alt="Typing SVG" /></a>
+<!-- <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&duration=2500&pause=1000&color=BA55D3FF&width=435&lines=My+WakaTime" alt="Typing SVG" /></a> -->
 
 <!-- <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/wakatime?username=LeenixP&theme=transparent&hide_border=true&layout=compact&langs_count=22" />
